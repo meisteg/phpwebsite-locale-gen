@@ -1,0 +1,7 @@
+This script will generate the locale file for your phpWebSite module.  It can also be used to update your module's locale file when you add/remove phrases from the code.  The script should be run from your module's root directory.
+
+Usage:
+localegen.sh <module_name> <locale>
+
+Based on a script provided by rhalff at:
+http://www.phpwebsite.nl/localegen.sh
